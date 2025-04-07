@@ -1,0 +1,22 @@
+Setting Arguments.. : Namespace(T=256, VthHand=0.1, batch_size=200, cuda=True, data_norm=True, device='0', gamma=1, lateral_inhi=True, model_name='vgg16', p=1, seed=23, sin_t=256, smode=True, train_batch=200, useDET=False, useDTT=False, useSC=False)
+timestep 001:0.010000000000000004
+timestep 004:0.013700000000000007
+timestep 008:0.019500000000000014
+timestep 016:0.053899999999999997
+timestep 032:0.11110000000000005
+timestep 048:0.1432
+timestep 064:0.16269999999999996
+timestep 080:0.1757
+timestep 096:0.18380000000000002
+timestep 112:0.18920000000000006
+timestep 128:0.1947
+timestep 144:0.19840000000000002
+timestep 160:0.20149999999999998
+timestep 176:0.20299999999999996
+timestep 192:0.2059
+timestep 208:0.20819999999999994
+timestep 224:0.2089999999999999
+timestep 240:0.20979999999999993
+timestep 256:0.21080000000000002
+max accs: 0.21080000000000002, timestep:(array([252, 253, 255]),)
+use for latex tabular: & 21.08 & 11.11 & 16.27 & 19.47 & 21.08
